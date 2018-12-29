@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [29/Dec/2018:20:50:05 +0300] "GET /struts2Annotation HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [29/Dec/2018:20:50:12 +0300] "GET /struts2Annotation/ HTTP/1.1" 404 - http-bio-8080-exec-3 0
